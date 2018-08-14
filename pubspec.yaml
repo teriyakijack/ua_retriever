@@ -1,8 +1,10 @@
 name: ua_retriever
 description: A Flutter plugin used to generate Http user-agent header.
 version: 0.0.1
-author: saranupong.l@hoteliers.guru
-homepage:
+author: Saranupong Limsawart <saranupong.l@hoteliers.guru>
+homepage: http://docs.hoteliers.guru/docs#ua_retriever
+environment:
+  sdk: '<3.0.0'
 
 dependencies:
   flutter:
